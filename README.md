@@ -1,0 +1,1 @@
+https://automoika.vercel.app
